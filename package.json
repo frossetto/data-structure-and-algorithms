@@ -1,5 +1,29 @@
 {
   "dependencies": {
     "jest": "^23.6.0"
-  }
+  },
+  "name": "data-structure-and-algorithms",
+  "description": "Data Structure and Algorithms Exercises",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frossetto/data-structure-and-algorithms.git"
+  },
+  "keywords": [
+    "data",
+    "structure",
+    "algorithms",
+    "javascript"
+  ],
+  "author": "Flavio Rossetto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frossetto/data-structure-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/frossetto/data-structure-and-algorithms#readme"
 }
